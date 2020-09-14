@@ -8,7 +8,7 @@
 	<packages>
 		<package name="." line-rate="0.8333" branch-rate="0" complexity="0">
 			<classes>
-				<class name="manage.py" filename="Restaurante/manage.py" complexity="0" line-rate="0.8333" branch-rate="0">
+				<class name="manage.py" filename="manage.py" complexity="0" line-rate="0.8333" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="2" hits="1"/>
@@ -29,17 +29,17 @@
 		</package>
 		<package name="Pedido" line-rate="0.7959" branch-rate="0" complexity="0">
 			<classes>
-				<class name="__init__.py" filename="Restaurante/Pedido/__init__.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="__init__.py" filename="Pedido/__init__.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines/>
 				</class>
-				<class name="admin.py" filename="Restaurante/Pedido/admin.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="admin.py" filename="Pedido/admin.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
 					</lines>
 				</class>
-				<class name="apps.py" filename="Restaurante/Pedido/apps.py" complexity="0" line-rate="0" branch-rate="0">
+				<class name="apps.py" filename="Pedido/apps.py" complexity="0" line-rate="0" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="0"/>
@@ -47,7 +47,7 @@
 						<line number="5" hits="0"/>
 					</lines>
 				</class>
-				<class name="models.py" filename="Restaurante/Pedido/models.py" complexity="0" line-rate="0.8333" branch-rate="0">
+				<class name="models.py" filename="Pedido/models.py" complexity="0" line-rate="0.8333" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
@@ -58,7 +58,7 @@
 						<line number="9" hits="0"/>
 					</lines>
 				</class>
-				<class name="tests.py" filename="Restaurante/Pedido/tests.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="tests.py" filename="Pedido/tests.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
@@ -72,7 +72,7 @@
 						<line number="28" hits="1"/>
 					</lines>
 				</class>
-				<class name="urls.py" filename="Restaurante/Pedido/urls.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="urls.py" filename="Pedido/urls.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
@@ -82,7 +82,7 @@
 						<line number="6" hits="1"/>
 					</lines>
 				</class>
-				<class name="views.py" filename="Restaurante/Pedido/views.py" complexity="0" line-rate="0.76" branch-rate="0">
+				<class name="views.py" filename="Pedido/views.py" complexity="0" line-rate="0.76" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
@@ -116,7 +116,7 @@
 		</package>
 		<package name="Pedido.migrations" line-rate="1" branch-rate="0" complexity="0">
 			<classes>
-				<class name="0001_initial.py" filename="Restaurante/Pedido/migrations/0001_initial.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="0001_initial.py" filename="Pedido/migrations/0001_initial.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="3" hits="1"/>
@@ -126,7 +126,7 @@
 						<line number="13" hits="1"/>
 					</lines>
 				</class>
-				<class name="__init__.py" filename="Restaurante/Pedido/migrations/__init__.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="__init__.py" filename="Pedido/migrations/__init__.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines/>
 				</class>
@@ -134,17 +134,17 @@
 		</package>
 		<package name="Repartidor" line-rate="0.6667" branch-rate="0" complexity="0">
 			<classes>
-				<class name="__init__.py" filename="Restaurante/Repartidor/__init__.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="__init__.py" filename="Repartidor/__init__.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines/>
 				</class>
-				<class name="admin.py" filename="Restaurante/Repartidor/admin.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="admin.py" filename="Repartidor/admin.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
 					</lines>
 				</class>
-				<class name="apps.py" filename="Restaurante/Repartidor/apps.py" complexity="0" line-rate="0" branch-rate="0">
+				<class name="apps.py" filename="Repartidor/apps.py" complexity="0" line-rate="0" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="0"/>
@@ -152,19 +152,19 @@
 						<line number="5" hits="0"/>
 					</lines>
 				</class>
-				<class name="models.py" filename="Restaurante/Repartidor/models.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="models.py" filename="Repartidor/models.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
 					</lines>
 				</class>
-				<class name="tests.py" filename="Restaurante/Repartidor/tests.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="tests.py" filename="Repartidor/tests.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
 					</lines>
 				</class>
-				<class name="urls.py" filename="Restaurante/Repartidor/urls.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="urls.py" filename="Repartidor/urls.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
@@ -174,7 +174,7 @@
 						<line number="6" hits="1"/>
 					</lines>
 				</class>
-				<class name="views.py" filename="Restaurante/Repartidor/views.py" complexity="0" line-rate="0.6316" branch-rate="0">
+				<class name="views.py" filename="Repartidor/views.py" complexity="0" line-rate="0.6316" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="1" hits="1"/>
@@ -202,7 +202,7 @@
 		</package>
 		<package name="Repartidor.migrations" line-rate="1" branch-rate="0" complexity="0">
 			<classes>
-				<class name="__init__.py" filename="Restaurante/Repartidor/migrations/__init__.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="__init__.py" filename="Repartidor/migrations/__init__.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines/>
 				</class>
@@ -210,11 +210,11 @@
 		</package>
 		<package name="restaurante" line-rate="0.8462" branch-rate="0" complexity="0">
 			<classes>
-				<class name="__init__.py" filename="Restaurante/restaurante/__init__.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="__init__.py" filename="restaurante/__init__.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines/>
 				</class>
-				<class name="settings.py" filename="Restaurante/restaurante/settings.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="settings.py" filename="restaurante/settings.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="13" hits="1"/>
@@ -237,7 +237,7 @@
 						<line number="127" hits="1"/>
 					</lines>
 				</class>
-				<class name="urls.py" filename="Restaurante/restaurante/urls.py" complexity="0" line-rate="1" branch-rate="0">
+				<class name="urls.py" filename="restaurante/urls.py" complexity="0" line-rate="1" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="16" hits="1"/>
@@ -246,7 +246,7 @@
 						<line number="20" hits="1"/>
 					</lines>
 				</class>
-				<class name="wsgi.py" filename="Restaurante/restaurante/wsgi.py" complexity="0" line-rate="0" branch-rate="0">
+				<class name="wsgi.py" filename="restaurante/wsgi.py" complexity="0" line-rate="0" branch-rate="0">
 					<methods/>
 					<lines>
 						<line number="10" hits="0"/>
